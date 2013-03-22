@@ -3,7 +3,7 @@
  *
  * FileName:    global.h
  * Author:      Buck
- * Email:       Buck88@gmail.com
+ * Email:       Buck88@126.com
  * Created:     2013.3.21
  * Environment: Visual Studio 2008
  *
